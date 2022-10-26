@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="standard">Standard</string>
+    <string name="scientific">Scientifique</string>
+    <string name="programmable">Programmable</string>
+    <string name="settings">Parametres</string>
+    <string name="History">Historique</string>
+</resources>
